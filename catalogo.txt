@@ -1,0 +1,255 @@
+#################### - ####################
+Papel - Nomad
+Local de nascimento - Eastern European
+Idiomas - English, Finnish, Polish, Romanian, Russian, Ukrainian
+Personalidade - ['Detached', 'Aloof', 'Complacent']
+Estilo de roupa - Leisurewear (Comfort, Agility, Athleticism)
+Corte de cabelo - Short and curly
+Afetação - Spiked gloves
+O que vc mais valoriza? - Family
+Sobre as pessoas? - People are tools. Use them for your own goals then discard them
+Pessoa(s) de mais valor? - A person who doesn't know you exist.
+Objeto de maior valor?  - A photograph
+Background familiar? - Corporate Technicians
+Qual descriçao?  - You started out on the road, but then moved into one of the deserted ghost towns or cities to rebuild it. A pioneer life: dangerous, but with plenty of simple food and a safe place to sleep. You were home schooled if there was anyone who had the time.
+Seu objetivo na vida?  - Save, if possible, anyone else involved in your background, like a lover, or family member.
+Crise familiar?  - Your family lost everything through badmanagement.
+Ambiente familiar?  - In a decaying, once upscale neighborhood,now holding off the boosters to survive.
+Amigos - Não. Ninguém.
+Inimigos? - Não, nenhum.
+Sweet Revenge! - Sem vingança
+Amores perdidos? Sim, um:  - Your lover went insane or cyberpsycho.
+Seus Stats - 
+
+INT - 7
+REF - 6
+DEX - 7
+TECH - 5
+COOL - 6
+WILL - 7
+LUCK - 5
+MOVE - 5
+BODY - 6
+EMP - 5
+Nome
+ - 01
+#################### - ####################
+#################### - ####################
+Papel - Nomad
+Local de nascimento - Middle Eastern/North African
+Idiomas - Arabic, Berber, English, Farsi, French, Hebrew, Turkish
+Personalidade - ['Subtle', 'Fluff – Hearted', 'Secretive']
+Estilo de roupa - Urban Flash (Flashy, Technological, Streetwear)
+Corte de cabelo - Neat and short
+Afetação - Jacket coverd in sewn on patches 
+O que vc mais valoriza? - Loyalty
+Sobre as pessoas? - I like almost everyone
+Pessoa(s) de mais valor? - A teacher or mentor
+Objeto de maior valor?  - A book or diary
+Background familiar? - Combat Zoners
+Qual descriçao?  - You had a mix of rugged trailers, vehicles, and huge road kombis for your home.ou learned to drive and fight at an early age, but the family was always there to care for you. Food was actually fresh and abundant. Mostly home schooled.
+Seu objetivo na vida?  - Gain power and control.
+Crise familiar?  - Your family was killed, and you were the only survivor.
+Ambiente familiar?  - In a Corporate luxury "starscraper," high above the rest of the teeming rabble.
+Amigos - Não. Ninguém.
+Inimigos? - Não, nenhum.
+Sweet Revenge! - Sem vingança
+Amores perdidos?  - Não, nenhum.
+Seus Stats - 
+
+INT - 7
+REF - 7
+DEX - 8
+TECH - 5
+COOL - 7
+WILL - 6
+LUCK - 7
+MOVE - 6
+BODY - 5
+EMP - 4
+Nome
+ - 02
+#################### - ####################
+#################### - ####################
+Papel - Fixer
+Local de nascimento - Middle Eastern/North African
+Idiomas - Arabic, Berber, English, Farsi, French, Hebrew, Turkish
+Personalidade - ['Adaptable', 'Subtle']
+Estilo de roupa - High Fashion (Exclusive, Designer, Couture)
+Corte de cabelo - Short sides long top
+Afetação - Particular shade of lipstick
+O que vc mais valoriza? - Faith
+Sobre as pessoas? - I stay neutral
+Pessoa(s) de mais valor? - A brother or sister
+Objeto de maior valor?  - A family collection
+Background familiar? - Nomad Pack
+Qual descriçao?  - You grew up in one of the huge new megastructures that went up after the War. Atiny conapt, kibble and scop for food, a mostly warm bed. Some better educated adult warren dwellers or a local Corporation may have set up a school.
+Seu objetivo na vida?  - Become feared and respected.
+Crise familiar?  - Your family was scattered to the winds due to misfortune.
+Ambiente familiar?  - Ran on The Street, with no adult supervision.
+Amigos? Sim, um(a) - A former lover.
+Inimigos? - Não, nenhum.
+Sweet Revenge! - Sem vingança
+Amores perdidos? Sim, um:  - Your lover is imprisoned or exiled.
+Seus Stats - 
+
+INT - 7
+REF - 7
+DEX - 6
+TECH - 3
+COOL - 7
+WILL - 7
+LUCK - 7
+MOVE - 5
+BODY - 7
+EMP - 4
+Nome
+ - 03
+#################### - ####################
+#################### - ####################
+Papel - Nomad
+Local de nascimento - Oceania/Pacific Islander
+Idiomas - English, French, Hawaiian, Maori,
+Pama-Nyungan, Tahitian
+Personalidade - ['Detached', 'Perfectionist']
+Estilo de roupa - Corpo Punk (Understated, Enticing, Edgy)
+Corte de cabelo - Chin Length & Thick
+Afetação - Jacket coverd in sewn on patches 
+O que vc mais valoriza? - Life
+Sobre as pessoas? - I hate almost everyone
+Pessoa(s) de mais valor? - Yourself
+Objeto de maior valor?  - A photograph
+Background familiar? - Corporate Managers
+Qual descriçao?  - A step up from a gang "family," your home was a decaying building somewher in the â€˜Zone', heavily fortified. You were hungry at times,but regularly could score a bed and a meal. Home schooled.
+Seu objetivo na vida?  - Get off The Street no matter what it takes.
+Crise familiar?  - Your family was scattered to the winds due to misfortune.
+Ambiente familiar?  - In a huge "megastructure" building controlled by a Corp or the City.
+Amigos - Não. Ninguém.
+Inimigos? Sim, 1 inimigo  - Government official
+E por que?  - Caused the other to lose face or status.
+Com o que te ataca?  - A powerful Corporation.
+
+Sweet Revenge! - ['Go into a murderous rage and try to physically rip their face off.']
+Amores perdidos?  - Não, nenhum.
+Seus Stats - 
+
+INT - 5
+REF - 7
+DEX - 7
+TECH - 4
+COOL - 6
+WILL - 6
+LUCK - 6
+MOVE - 5
+BODY - 6
+EMP - 5
+Nome
+ - Duiogo
+#################### - ####################
+#################### - ####################
+Papel - Lawman
+Local de nascimento - Middle Eastern/North African
+Idiomas - Arabic, Berber, English, Farsi, French, Hebrew, Turkish
+Personalidade - ['Cunning', 'Nosy', 'Compassionate']
+Estilo de roupa - Asia Pop (Bright, Costume-like, Youthful)
+Corte de cabelo - Side Parted
+Afetação - Stylish bag/backpack
+O que vc mais valoriza? - Stability
+Sobre as pessoas? - People are untrustworthy. Do not depend on anyone
+Pessoa(s) de mais valor? - A pet
+Objeto de maior valor?  - A deed
+Background familiar? - Corporate Technicians
+Qual descriçao?  - You lived in cars, dumpsters, or abandoned shipping modules. If you were lucky.You were usually hungry, cold, and scared, unless you were tough enough to fight for the scraps. Eduation? School of Hard Knocks.
+Seu objetivo na vida?  - Gain fame and recognition.
+Crise familiar?  - Your family is involved in a long-term conspiracy, organization, or association, such as a crime family or revolutionary group.
+Ambiente familiar?  - In a decaying, once upscale neighborhood,now holding off the boosters to survive.
+Amigos - Não. Ninguém.
+Inimigos? Sim, 1 inimigo  - Ex-friend
+E por que?  - Caused a major public humiliation
+Com o que te ataca?  - Themselves and a few (1d6/2) friends.
+
+Sweet Revenge! - ["Set them up for a crime or other transgression they didn't commit."]
+Amores perdidos?  - Não, nenhum.
+Seus Stats - 
+
+INT - 7
+REF - 8
+DEX - 7
+TECH - 3
+COOL - 7
+WILL - 6
+LUCK - 5
+MOVE - 6
+BODY - 7
+EMP - 4
+#################### - ####################
+Papel - Nomad
+Local de nascimento - East Asian
+Idiomas - Cantonese Chinese, English, Japanese, Korean,
+Mandarin Chinese, Mongolian
+Personalidade - ['Moody', 'Headstrong']
+Estilo de roupa - Dolly Key (Antique, Distressed, Layered)
+Corte de cabelo - Tightly Braided
+Afetação - Personalised Lighter
+O que vc mais valoriza? - Love
+Sobre as pessoas? - I like them better than I like myself.
+Pessoa(s) de mais valor? - A brother or sister
+Objeto de maior valor?  - A toy
+Background familiar? - Combat Zoners
+Qual descriçao?  - You started out on the road, but then moved into one of the deserted ghost towns or cities to rebuild it. A pioneer life: dangerous, but with plenty of simple food and a safe place to sleep. You were home schooled if there was anyone who had the time.
+Seu objetivo na vida?  - Get off The Street no matter what it takes.
+Crise familiar?  - You are the inheritor of a family debt; you must honor this debt before moving on with your life.
+Ambiente familiar?  - In the ruins of a deserted town or city taken over by Reclaimers.
+Amigos? Sim, primeiro(a) - An old enemy.
+Segundo(a) - Someone you know from The Street.
+Inimigos? Sim, 1 inimigo -  - Ex-friend
+E por que?  - Turned down the other's offer of a job or romantic involvement.
+Com o que te ataca?  - An entire city or government or agency.
+
+Sweet Revenge! - ['Go into a murderous rage and try to physically rip their face off.']
+Amores perdidos?  - Não, nenhum.
+Seus Stats - 
+
+INT - 6
+REF - 6
+DEX - 7
+TECH - 3
+COOL - 6
+WILL - 6
+LUCK - 7
+MOVE - 6
+BODY - 6
+EMP - 4
+#################### - ####################
+Papel - Rockerboy
+Local de nascimento - Western European
+Idiomas - Dutch, English, French, German, Italian, Norwegian, Portuguese, Spanish
+Personalidade - ['Fatalistc', 'Perfectionist']
+Estilo de roupa - Dolly Key (Antique, Distressed, Layered)
+Corte de cabelo - Long and ratty
+Afetação - Particularly funky socks/stockings
+O que vc mais valoriza? - Power
+Sobre as pessoas? - People are untrustworthy. Do not depend on anyone
+Pessoa(s) de mais valor? - Someone who is dead.
+Objeto de maior valor?  - A piece of military memorabilia
+Background familiar? - Ganger "Family"
+Qual descriçao?  - You lived in cars, dumpsters, or abandoned shipping modules. If you were lucky.You were usually hungry, cold, and scared, unless you were tough enough to fight for the scraps. Eduation? School of Hard Knocks.
+Seu objetivo na vida?  - Live down your past life and try to forget it.
+Crise familiar?  - Your family lost everything through betrayal.
+Ambiente familiar?  - In a Nomad pack with roots in transport (ships, planes, caravans).
+Amigos - Não. Ninguém.
+Inimigos? - Não, nenhum.
+Sweet Revenge! - Sem vingança
+Amores perdidos? Sim, um:  - A rival cut you out of the action
+Seus Stats - 
+
+INT - 5
+REF - 6
+DEX - 6
+TECH - 5
+COOL - 6
+WILL - 7
+LUCK - 7
+MOVE - 6
+BODY - 7
+EMP - 5
